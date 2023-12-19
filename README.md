@@ -1,3 +1,3 @@
 # Farm Simulator Clicker
 
-Project for HackNC 2023 with Judson Greer and David Sprague. Uses SwiftUI to build a clicking based farm simulator game.
+Simple project made for HackNC 2023 alongside Judson Greer and Nicholas Mountain. We used SwiftUI to build a clicking-based farm simulator game. This was a great learning experience since none of us had any prior SwuiftUI experience or knowledge. 
